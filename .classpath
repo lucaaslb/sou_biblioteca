@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/restfb-2.0.0-rc.2.jar"/>
+	<classpathentry kind="lib" path="lib/sqlite-jdbc-3.18.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-3.4.0/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
