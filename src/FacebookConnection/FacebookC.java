@@ -1,5 +1,5 @@
 /*
- * Projeto Integrado 3° Semestre CCO
+ * Projeto Integrado 3ï¿½ Semestre CCO
  * 
  *  Author: Lucas Lacerda
  */
@@ -62,6 +62,7 @@ public class FacebookC {
 
 					this.name = user.getName();
 					this.email = user.getEmail();
+					driver.close();
 
 				}
 			}

@@ -1,5 +1,5 @@
 /*
- * Projeto Integrado 3° Semestre CCO
+ * Projeto Integrado 3ï¿½ Semestre CCO
  * 
  *  Author: Lucas Lacerda
  */
@@ -127,10 +127,12 @@ public class admUser extends JFrame {
 						devolucao = date.getDaysRunning(data);
 						devolucao = date.days(devolucao);
 						contData.setText("" + devolucao);
+						txtMulta.setText("R$ 0,00");
 						if (devolucao == 1) {
 							JOptionPane.showMessageDialog(null, "Lembre-se de devolver seu livro na biblioteca !!!");
+							
 						} else if (devolucao < 1) {
-							JOptionPane.showMessageDialog(null, "Passou o prazo de devolução. Você está gerando multa  =( ");
+							JOptionPane.showMessageDialog(null, "Passou o prazo de devoluÃ§Ã£o. VocÃª estÃ¡ gerando multa  =( ");
 
 							txtMulta.setText(date.multa(devolucao));
 						}

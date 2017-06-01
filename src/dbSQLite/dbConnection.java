@@ -1,5 +1,5 @@
 /*
- * Projeto Integrado 3° Semestre CCO
+ * Projeto Integrado 3ï¿½ Semestre CCO
  * 
  *  Author: Lucas Lacerda
  */
@@ -21,7 +21,7 @@ public class dbConnection {
 	private Connection c;
 
 	public boolean connect() {
-		String url = "jdbc:sqlite:dblibrary.sqlite";
+		String url = "jdbc:sqlite:database/dblibrary.sqlite";
 
 		try {
 			this.c = DriverManager.getConnection(url);
@@ -175,7 +175,7 @@ public class dbConnection {
 
 	/* conta a quantidade de livros cadastrados no banco */
 
-	/* Retorna informações do livro que for passado como parametro */
+	/* Retorna informaï¿½ï¿½es do livro que for passado como parametro */
 
 	public String[] bookInformations(String title) {
 
@@ -237,7 +237,7 @@ public class dbConnection {
 	}
 
 	/*
-	 * METODOS RELACIONADOS AO EMPRESTIMO E DEVOLUÇÃO DE LIVROS
+	 * METODOS RELACIONADOS AO EMPRESTIMO E DEVOLUï¿½ï¿½O DE LIVROS
 	 */
 
 	/* Localiza o livro pela ID e retorna o title */
