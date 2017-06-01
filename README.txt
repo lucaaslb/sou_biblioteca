@@ -46,4 +46,4 @@ O que falta:
 Criptografar senha de acesso e o token do facebook. 
 Atualização de quantidade de livros ao ser locado. 
 Melhorar o design 
-*Estou analisando o codigo para finalizar o processo do google chrome, percebi que mesmo apos fazero login ele continua usando memoria do computador. 
+
