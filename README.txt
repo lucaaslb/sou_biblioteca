@@ -11,11 +11,12 @@ Aluno pode logar e compartilhar no facebook.
 Utilizando o banco de dados SQLITE para salvar informações de alunos e livros
 
 IDE: Eclipse NEON.3 - JAVA 8
+
 /****************************************************************/
 
 How to use: 
 
-Execute o 'Sou Biblioteca.jar' dentro da pasta do projeto. (Onde ele esta agora, para não ocorrer erro de busca de lib e do banco"
+Execute o 'Sou Biblioteca.jar' dentro da pasta do projeto. (Onde ele esta agora, para não ocorrer erro de busca de lib e do banco)
 
 Para logar como adm digite a senha: 'ragnar' ao cliar no botão na parte inferior da janela 
 
@@ -41,9 +42,4 @@ No botão compartilhar você compartilha no facebook o nome do livro e do autor 
 
 /****************************************************************/
 
-O que falta: 
-
-Criptografar senha de acesso e o token do facebook. 
-Atualização de quantidade de livros ao ser locado. 
-Melhorar o design 
 

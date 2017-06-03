@@ -128,7 +128,7 @@ public class admUser extends JFrame {
 						devolucao = date.days(devolucao);
 						contData.setText("" + devolucao);
 						txtMulta.setText("R$ 0,00");
-						if (devolucao == 1) {
+						if (devolucao == 1 || devolucao == 0) {
 							JOptionPane.showMessageDialog(null, "Lembre-se de devolver seu livro na biblioteca !!!");
 							
 						} else if (devolucao < 1) {

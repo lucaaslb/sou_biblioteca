@@ -151,7 +151,7 @@ public class dbConnection {
 		
 		Statement stmt = null;
 		ResultSet rs;
-		String sql = "SELECT * FROM BOOK";
+		String sql = "SELECT * FROM BOOK ORDER BY TITLE";
 
 		try {
 			connect();
